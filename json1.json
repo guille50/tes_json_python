@@ -1,0 +1,16 @@
+{
+  "_id": "561cf95774dac5d3e05a3e58",
+  "index": 0,
+  "guid": "847f260a-d7fc-4996-a9ba-b9419518c9b1",
+  "isActive": true,
+  "balance": "$1,037.82",
+  "picture": "http://placehold.it/32x32",
+  "age": 28,
+  "eyeColor": "blue",
+  "name": "Leonor Bruce",
+  "gender": "female",
+  "company": "ZILODYNE",
+  "email": "leonorbruce@zilodyne.com",
+  "phone": "+1 (926) 529-2764",
+  "address": "396 Hazel Court, Dundee, West Virginia, 431"
+}

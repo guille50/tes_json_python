@@ -13,8 +13,14 @@
   "email": "leonorbruce@zilodyne.com",
   "phone": "+1 (926) 529-2764",
   "address": "396 Hazel Court, Dundee, West Virginia, 431",
+<<<<<<< HEAD
   "otros": "cambios",
   "mas": "cambios",
   "cambios": "derecha"
 
+=======
+  "linea":  "test",
+  "otra": "linea",
+  "cambios":"izquierda"
+>>>>>>> 3ca29a4031a6bdf90e017c60221abb7b6cc12006
 }
